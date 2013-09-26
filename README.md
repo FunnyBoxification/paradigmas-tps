@@ -1,4 +1,4 @@
 paradigmas-tps
 ==============
 
-Aca estan los TPs de paradigmas :3
+Aca estan los TPs de paradigmas :B
