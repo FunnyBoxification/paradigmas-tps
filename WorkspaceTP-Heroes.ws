@@ -3,5 +3,12 @@ pablox calcularPotencia.
 pablox potencia.   
 
 julian := Heroe new:(Sabiduria new:2) con:#(1 8 9 12).
+julian calcularPotencia.
+
+pablox peleaCon:julian.
+
+julian capacitarse:(SuperFuerza new:900).
+
+
 
 
