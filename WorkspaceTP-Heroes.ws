@@ -11,6 +11,7 @@ pablox peleaCon:julian.
 
 "punto 3"
 julian capacitarse:(SuperFuerza new:900).
+julian calcularPotencia.
 
 "punto 4"
 pablox esDignoDeConfianza. 
